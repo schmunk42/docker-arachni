@@ -1,6 +1,6 @@
 # docker-arachni
 
-[Arachni](http://www.arachni-scanner.com/) running in a docker container
+[DockerHub image](https://hub.docker.com/r/ahannigan/docker-arachni/) for [Arachni](http://www.arachni-scanner.com/) running in a docker container
 
 ## Running
 
